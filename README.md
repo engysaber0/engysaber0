@@ -3,4 +3,5 @@
 - 🌱 I’m currently learning Python
 - 🗯 Data Analysis and SQL
 - 🗯 ML and DL
-      Learn one thing every day✌🏻
+
+    Learn one thing every day✌🏻
